@@ -1,5 +1,2 @@
 <?php 
-
-echo 'home';
-
-
+echo 'I am in the home';
